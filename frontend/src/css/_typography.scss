@@ -1,0 +1,15 @@
+/*------------- Font-family -------------*/
+$font-family-title: 'Kaleidos-Smooth';
+$font-family-text: 'Gotham-Book';
+
+/*------------- Font-face --------------- */
+@font-face {
+   font-family: Kaleidos-Smooth;
+   src: url(./css/fonts/Kaleidos-Smooth.ttf);
+}
+
+
+@font-face {
+   font-family: Gotham-Book;
+   src: url(./css/fonts/Gotham-Book.otf);
+}
